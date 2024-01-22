@@ -6,11 +6,11 @@
 
     <groupId>org.insurgencedev</groupId>
     <artifactId>TE-Tokens</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <author>Hxtch#4275</author>
-        <java.version>1.8</java.version>
+        <java.version>16</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -31,7 +31,7 @@
             <artifactId>insurgencesets</artifactId>
             <version>LATEST</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/src/main/libs/ISets-0.0.7-beta.jar</systemPath>
+            <systemPath>${project.basedir}/src/main/libs/ISets-1.0.5-API.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.spigotmc</groupId>
